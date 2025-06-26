@@ -92,3 +92,17 @@ body {
   transition: 0.3s;
   color: #8d2a00;
 }
+@media (max-width: 600px) {
+  .title h1 {
+    font-size: 42px;
+  }
+  .title p {
+    font-size: 15px;
+  }
+  .sub-title {
+    font-size: 13px;
+  }
+  .lowerSection a {
+    font-size: 18px;
+  }
+}
